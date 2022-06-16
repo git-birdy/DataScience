@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction
-Given the volatility of the crypto market at the time of this project, we are interested in seeing if we can predict Bitcoin prices based on the historical and recent history of Bitcoin prices. We want to predict tomorrow's closing price based on the past 30 days closing prices.
+Given the volatility of the crypto market at the time of this project, we are interested in seeing if we can predict Bitcoin prices based on the historical and recent history of Bitcoin prices. We want to predict 'tomorrow's' closing price based on the past 30 days closing prices.
 
 ## Choice of dataset
 We selected a dataset from <a href='https://www.investing.com/crypto/bitcoin/historical-data'>Investing.com</a>  where we chose the timeframe of Bitcoin historical price data from 6/4/2020-6/4/2022. This was then uploaded to our project Github as there is no direct link to a CSV file on their site. <a href='https://raw.githubusercontent.com/KatherineVickstrom/DataScience/main/Bitcoin_Historical%20Data_%20Investing_com_20200604_20220604.csv' style='font-size: .8rem'> (Link to GitHub)</a>  <br>
