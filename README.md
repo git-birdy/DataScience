@@ -3,6 +3,7 @@
     Mike Limpus, Michael Hackett, Katie Vickstrom, Josh Hansen <br>
     <a href='https://github.com/KatherineVickstrom/DataScience'>https://github.com/KatherineVickstrom/DataScience</a> <br>
 </p>
+
 ## Introduction
 Given the volatility of the crypto market at the time of this project, we are interested in seeing if we can predict Bitcoin prices based on the historical and recent history of Bitcoin prices. We want to predict tomorrow's closing price based on the past 30 days closing prices.
 
