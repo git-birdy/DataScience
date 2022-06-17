@@ -2,6 +2,7 @@
 <p style="text-align:center"> 
     Mike Limpus, Michael Hackett, Katie Vickstrom, Josh Hansen <br>
     <a href='https://github.com/KatherineVickstrom/DataScience'>https://github.com/KatherineVickstrom/DataScience</a> <br>
+    <h3><a href='https://youtu.be/g2F0_THwadE'>Video Presentation</a></h3> <br>
 </p>
 
 ## Introduction
